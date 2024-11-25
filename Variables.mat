@@ -3,5 +3,12 @@
 All variable are array, a single number is just a variable [1,1] or escalar
 this means that all variables are vectors
 
+to make a row vector x =[1,2]
+to make a column vector x =[1;2]
+combine: x = [3 4 5;6 7 8]
+x = 
+    3    4    5
+    6    7    8
+
 TO
 }%
