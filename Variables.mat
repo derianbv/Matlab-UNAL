@@ -1,7 +1,7 @@
 %{ Here we store values for variables in Matlab  
 
-All variable are arrays 
-
+All variable are array, a single number is just a variable [1,1] or escalar
+this means that all variables are vectors
 
 TO
 }%
